@@ -1,3 +1,5 @@
 {"timestamp":"1485261129","reviewRef":"refs/heads/ap1","targetRef":"","requester":"sokolov.stas@gmail.com","description":"Added an explanation to the README file","baseCommit":"c7445afd3b421d7e64bb30575ffb01b182adfc20"}
 
 {"timestamp":"1485276977","reviewRef":"refs/heads/ap1","targetRef":"refs/heads/master","requester":"sokolov.stas@gmail.com","description":"Added an explanation to the README file","baseCommit":"c7445afd3b421d7e64bb30575ffb01b182adfc20"}
+
+{"timestamp":"1485276977","reviewRef":"refs/heads/ap1","targetRef":"","requester":"sokolov.stas@gmail.com","description":"Added an explanation to the README file","baseCommit":"c7445afd3b421d7e64bb30575ffb01b182adfc20"}
